@@ -1,0 +1,1 @@
+//To create the .json file simply write (npm init -y) on terminal
